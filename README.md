@@ -100,23 +100,23 @@ Yu-Gi-Oh-Studio-Template/
 
 ## Application Screens
 
-### Starter Screen
+**1. Starter Screen**
 
 [![](./screenshots/Screenshot_3.jpg)]
 
-### Menu Screen
+**2. Menu Screen**
 
 [![](./screenshots/Screenshot_4.jpg)]
 
-### Instruction Screen
+**3. Instruction Screen**
 
 [![](./screenshots/Screenshot_5.jpg)]
 
-### Card Maker Screen
+**4. Card Maker Screen**
 
 [![](./screenshots/Screenshot_7.jpg)]
 
-### Download Screen
+**5. Download Screen**
 
 [![](./screenshots/Screenshot_9.jpg)]
 
