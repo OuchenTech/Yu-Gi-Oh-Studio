@@ -102,23 +102,23 @@ Yu-Gi-Oh-Studio-Template/
 
 ### Starter Screen
 
-[![](./screenshots/Screenshot-3.png)]
+[![](./screenshots/Screenshot-3.jpg)]
 
 ### Menu Screen
 
-[![](./screenshots/Screenshot-4.png)]
+[![](./screenshots/Screenshot-4.jpg)]
 
 ### Instruction Screen
 
-[![](./screenshots/Screenshot-5.png)]
+[![](./screenshots/Screenshot-5.jpg)]
 
 ### Card Maker Screen
 
-[![](./screenshots/Screenshot-7.png)]
+[![](./screenshots/Screenshot-7.jpg)]
 
 ### Download Screen
 
-[![](./screenshots/Screenshot-9.png)]
+[![](./screenshots/Screenshot-9.jpg)]
 
 ---
 
