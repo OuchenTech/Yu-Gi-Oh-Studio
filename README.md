@@ -1,6 +1,6 @@
 # Yu-Gi-Oh! Studio - Complete App Template
 
-[!](./screenshots/hero.png)
+[![Hero](./screenshots/hero.png)]
 
 ---
 
