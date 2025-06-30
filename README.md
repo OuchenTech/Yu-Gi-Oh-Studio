@@ -98,6 +98,30 @@ Yu-Gi-Oh-Studio-Template/
 
 ---
 
+## Application Screens
+
+### Starter Screen
+
+[![](./screenshots/Screenshot-3.png)]
+
+### Menu Screen
+
+[![](./screenshots/Screenshot-4.png)]
+
+### Instruction Screen
+
+[![](./screenshots/Screenshot-5.png)]
+
+### Card Maker Screen
+
+[![](./screenshots/Screenshot-7.png)]
+
+### Download Screen
+
+[![](./screenshots/Screenshot-9.png)]
+
+---
+
 ## 🎯 Perfect For
 
 ### 👨‍💻 Developers & Entrepreneurs
@@ -116,7 +140,7 @@ Yu-Gi-Oh-Studio-Template/
 
 ## 🚀 Quick Start Guide
 
-### Step 1: Download & Setup (5 minutes)
+### Step 1: Download & Setup
 ```bash
 # After purchasing from Ko-fi, extract the template files
 # Navigate to the template directory
@@ -126,7 +150,7 @@ cd Yu-Gi-Oh-Studio-Template
 pip install -r requirements.txt
 ```
 
-### Step 2: Test Run (2 minutes)
+### Step 2: Test Run
 ```bash
 # Run on desktop
 python main.py
@@ -134,7 +158,7 @@ python main.py
 # Your app is now running!
 ```
 
-### Step 3: Build APK (10 minutes)
+### Step 3: Build APK
 ```bash
 # Install buildozer
 pip install buildozer
@@ -328,8 +352,6 @@ A: Yes! It's production-ready with proper error handling, performance optimizati
 ---
 
 **Transform your idea into a profitable card creation app today!**
-
-**[Download Yu-Gi-Oh! Studio Template from Ko-fi →](your-kofi-link)**
 
 ---
 
