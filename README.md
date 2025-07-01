@@ -6,7 +6,7 @@
 
 ## 🎯 What You're Getting
 
-**Yu-Gi-Oh! Studio** is a complete, production-ready mobile app template that lets users create custom Yu-Gi-Oh! cards with professional quality. 
+**Yu-Gi-Oh! Studio** is a complete, production-ready mobile app template that enables users to create custom Yu-Gi-Oh! cards with professional quality. Built with Python and Kivy, this template provides everything you need to launch your own card creation app or learn mobile development using python.
 
 ### ✨ Key Highlights
 
